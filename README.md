@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Petrichor813
+- 👀 I’m interested in AI and computer science
+- 🌱 I’m currently learning computer system and OS lessons
+- 📫 How to reach me: email me at 17267246980@163.com (working email, often check) or 1321180567@qq.com (login email, less frequently check)
