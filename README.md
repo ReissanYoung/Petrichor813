@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Petrichor813
+- 👋 Hi, I’m ReissanYoung
 - 👀 I’m interested in AI and big data
-- 🌱 I’m currently learning computer networks, AI, database systems and algorithm designing
+- 🌱 I’m currently learning machine learning, NLP and data mining.
 - 📫 How to reach me: email me at 17267246980@163.com (working email, often check) or 1321180567@qq.com (login email, less frequently check)
